@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-**Note:** The use of AALang for this application is overkill. This simple number guessing game could be implemented with just a few lines of code in any programming language, but it serves as a demonstration of AALang's capabilities for defining agent architectures and behaviors.
+**Note:** The use of AALang for this application is overkill. The simple number guessing game could be implemented with just a few lines of code in any programming language, but it serves as a demonstration of AALang's capabilities for defining agent architectures and behaviors.
 
 ## Description
 
